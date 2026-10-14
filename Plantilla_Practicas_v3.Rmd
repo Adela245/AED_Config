@@ -1,6 +1,6 @@
 ---
 title: "PlatillaTarea0"
-author: "Pon aquí tu nombre y apellidos"
+author: "Adela Ayala Cutillas"
 date: "`r Sys.Date()`"
 output:
   bookdown::pdf_document2:
