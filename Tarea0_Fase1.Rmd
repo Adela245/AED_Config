@@ -1,0 +1,14 @@
+---
+title: "Untitle"
+author: "Adela Ayala Cutillas"
+date: "2026-10-14"
+output: html_document
+---
+
+# Plantilla para la tarea
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
